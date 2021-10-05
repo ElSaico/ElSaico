@@ -23,6 +23,6 @@ Getting more traction in incident handling will allow me to build more tools for
 
 Plus, there's a couple of things on ice that I want to finish someday:
 
-* **A chiptune-to-tab converter** aimed at bass; think FFVI's *Dancing Mad*, for instance. The use of MIDI as an intermediate format (courtesy of [VGMTrans](https://github.com/vgmtrans/vgmtrans)) eliminates a lot of effort, but importing on every software I've found so far relies on a bunch of assumptions that these files don't follow.
+* **A chiptune-to-tab converter** aimed at bass tracks; think FFVI's *Dancing Mad*, for instance. The use of MIDI as an intermediate format (courtesy of [VGMTrans](https://github.com/vgmtrans/vgmtrans)) eliminates a lot of effort, but importing on every software I've found so far relies on a bunch of assumptions that these files don't follow.
 * **[Another Flux](https://github.com/ElSaico/AnotherFlux)**, a successor to [Temporal Flux](http://geigercount.net/crypt/) - which remains a cornerstone of the Chrono Trigger modding community despite not having any updates since 2017, thanks to a very flexible plugin architecture - that this project aims to support as a drop-in replacement.
   * All the reverse engineering effort required due to its closed-source nature - despite being a .net tool, which makes this far easier - and the leap of faith involved in making the current plugins even *work*, makes me wonder if it's not worth it more to build something from scratch with the available (and rather vast!) ROM documentation.
