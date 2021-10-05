@@ -15,7 +15,7 @@ Mostly college projects and a bunch of stillborn efforts.
 
 Aside from corporate stuff (nothing for public consumption *yet*, but I'm still new at this IR thing), all programming effort these days go to [the broadcasting overlay](https://github.com/ElSaico/comboio-overlay) for [my Twitch channel](https://twitch.tv/ElSaico), where I stream some gameplay and the whole "puns of dubious quality" thing *really* shines (~6 months and counting is in the high hundreds!)
 
-This is possible thanks to [NodeCG](https://www.nodecg.dev/), which allows all the flexibility I need.
+This is possible thanks to [NodeCG](https://www.nodecg.dev/), whose design fits my needs perfectly.
 
 ## What do you plan to code?
 
